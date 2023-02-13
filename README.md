@@ -30,6 +30,8 @@ Data Source: The dashboard requires a data source to work. The data source shoul
 
 ![image](https://user-images.githubusercontent.com/98435615/218530348-3b61c350-3bec-45e4-b9e3-b1a8763a0aaa.png)
 
+
+
 Profit Analysis
 
 The Profit Analysis tool is designed to help you understand the financial performance of your business. The tool provides a comprehensive overview of your financial data, including revenue, expenses, and profits.
@@ -82,3 +84,31 @@ Connect the tool to your financial data for multiple companies.
 Customize the inputs and algorithms to meet your specific needs.
 
 ![image](https://user-images.githubusercontent.com/98435615/218532056-a0515bef-9aa9-47ff-9a20-70fd7d66ad2f.png)
+
+HR Analysis
+
+The HR Analysis tool is designed to help organizations understand and optimize their human resources data. The tool provides a comprehensive overview of HR data, including employee demographics, job performance, and turnover rate.
+
+Features
+Employee Demographics: The tool provides a breakdown of employee demographics, including age, gender, education, and experience.
+
+Job Performance: The tool provides insight into job performance, including charts and graphs that display performance metrics over time.
+
+Turnover Rate: The tool provides a comprehensive analysis of turnover rate, including charts and graphs that display turnover rate over time.
+
+Customizable: The tool is customizable, allowing you to change the inputs, algorithms, and visualizations to meet your specific needs.
+
+Visual Analytics: The tool uses interactive charts and graphs to present the HR data in a clear and easy to understand format.
+
+Getting Started
+To get started with this HR Analysis tool, you will need to:
+
+Clone this repository to your local machine.
+
+Open the .xlsx file in Microsoft Excel.
+
+Connect the tool to your HR data.
+
+Customize the inputs and algorithms to meet your specific needs.
+
+![image](https://user-images.githubusercontent.com/98435615/218534491-efa85856-c769-485d-8d07-242365be5374.png)
